@@ -1,0 +1,2 @@
+# QrScanner
+Created with CodeSandbox
